@@ -1,0 +1,23 @@
+{
+  "name": "presentation-fullscreen",
+  "version": "1.0.0",
+  "description": "Adds a contextual menu to the browser so you can toggle between making the document.body fullscreen or not. Ideal for presentations and super hardcoded! YAY!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sole/presentation-fullscreen"
+  },
+  "keywords": [
+    "fullscreen",
+    "presentation"
+  ],
+  "author": "sole",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/sole/presentation-fullscreen/issues"
+  },
+  "homepage": "https://github.com/sole/presentation-fullscreen"
+}
